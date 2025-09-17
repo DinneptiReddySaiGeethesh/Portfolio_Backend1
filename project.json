@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Portfolio",
+    "description": "A website to showcase my skills and projects.",
+    "link": "https://dinneptireddysaigeethesh.github.io/Portfolio-/"
+  },
+  {
+    "id": 2,
+    "title": "Sample Project",
+    "description": "This is another project example.",
+    "link": "#"
+  }
+]
